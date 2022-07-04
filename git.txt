@@ -1,0 +1,7 @@
+git pull //获取最近的git信息
+git checkout 切换分支
+
+
+-------提交到远程分支
+git add.   
+git commit -m "first commit" 
